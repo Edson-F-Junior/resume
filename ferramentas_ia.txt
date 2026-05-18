@@ -1,3 +1,5 @@
 Python, TensorFlow, Pandas
 Foco de carreira: Engenharia e Machine Learning.
 PyTorch
+Foco de carreira: Engenharia e Machine Learning
+Contato: meu email
