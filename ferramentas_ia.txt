@@ -1,1 +1,2 @@
 Python, TensorFlow, Pandas
+Foco de carreira: Engenharia e Machine Learning.
